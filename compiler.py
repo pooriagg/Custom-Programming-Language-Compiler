@@ -323,7 +323,7 @@ resultFile.close()
 
 result = open("./Result.txt", "r")
 
-# check the existince of error
+# check the existence of error
 isAllConfirmed = True
 
 content = result.readlines()
